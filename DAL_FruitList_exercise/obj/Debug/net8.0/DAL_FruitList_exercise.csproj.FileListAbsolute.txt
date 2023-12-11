@@ -1,0 +1,12 @@
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\bin\Debug\net8.0\DAL_FruitList_exercise.deps.json
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\bin\Debug\net8.0\DAL_FruitList_exercise.dll
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\bin\Debug\net8.0\DAL_FruitList_exercise.pdb
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.csproj.AssemblyReference.cache
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.AssemblyInfoInputs.cache
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.AssemblyInfo.cs
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.csproj.CoreCompileInputs.cache
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.dll
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\refint\DAL_FruitList_exercise.dll
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\DAL_FruitList_exercise.pdb
+C:\Users\nikunj\source\repos\Fruitlist_Exercise\DAL_FruitList_exercise\obj\Debug\net8.0\ref\DAL_FruitList_exercise.dll
